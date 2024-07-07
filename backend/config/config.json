@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Usuario",
+    "password": "Colocar contraseña",
+    "database": "Nombre de la tabla",
+    "host": "Server",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "Usuario",
+    "password": "Colocar contraseña",
+    "database": "Nombre de la tabla",
+    "host": "Server",
+    "dialect": "mysql"
+  }
+}
