@@ -6,7 +6,7 @@ RODRIGO ALEJANDRO SALAZAR LIZARRAGA
 
 Primero, después de clonar mi fuente con git, necesitas configurar la base de datos. Nombre de usuario, contraseña y base de datos (el nombre de tu base de datos) en backend/config en produccion. 
 
-Y conectarte a MySQL  Segundo, usar el cript para definir la API para Postman. 
+Y conectarte a MySQL  Segundo, usar el cript para definir la API para Postman. La información general de la tabla se generara de manera automática con el codigo cuando se ejecuta el backend
 
 Tercero, debes crear un producto siguiendo los parámetros que he definido con localhost/8000 o en el puert que se abrio el servidor. 
  
