@@ -18,6 +18,10 @@ Se usara este comando para correr ambos proyectos tanto el front como el back
 
 ### `Purebas`
 
+Una vez el proyecto este corriendo podremos usar las credenciales del script de postamn para entrar con nuestro usuario.
+
+Despues si vamos a localhost/admin podremos tener mas información de los productos y el historial de los productos 
+
 Aqui sera necesario usar el siguiente script en postman usando localhost en el puerto que se abrio el backend
 
 ### `Script para registrar usaurio y hacer pruebas de algunos produtcos con comentarios y historila de compras usando postman`
